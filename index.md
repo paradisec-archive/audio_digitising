@@ -12,11 +12,8 @@ This page offers advice for those who wish to prepare audio files for archiving 
 
 ## Digitising Cassette Tapes
 
-Studio Manual: Audio digitising
 
-NB: Make sure all laptops in room have wifi disabled. Turn off mobile or don’t bring into studio.
-
-1.	Turn on computer and login with your ANU UDS credentials
+### 1.	Turn on computer and login with your ANU UDS credentials
 
 Recources you should find on your desktop:
 Wavelab Pro 10.0 shortcut
