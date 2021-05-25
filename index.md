@@ -1,5 +1,7 @@
 # Audio Digitising Workflows for PARADISEC Archive
-🟠 *This page currently under construction 20210525* 🟠
+<p align="center">
+🟠 *This page currently under construction 2021-05-25* 🟠
+</p>
 
 <p align="center">
   <img height="200" src="images/rev-rev-vox.gif">
