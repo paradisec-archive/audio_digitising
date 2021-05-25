@@ -61,9 +61,9 @@ Press the button with the dot on it, far right. This will open the following rec
 
 ## Digitising Reel-to-Reel Tapes
 
-[Pragmatic Audiovisual Preservation](http://doi.org/10.7207/twr20-10), (2021) Ashley Blewer
+[Pragmatic Audiovisual Preservation](http://doi.org/10.7207/twr20-10) (2021) Ashley Blewer
 
-[IASA Technical Committee, Guidelines on the Production and Preservation of Digital Audio Objects](https://www.iasa-web.org/tc04/audio-preservation), (2009, 2nd ed.) ed. by Kevin Bradley.
+[IASA Technical Committee, Guidelines on the Production and Preservation of Digital Audio Objects](https://www.iasa-web.org/tc04/audio-preservation) (2009, 2nd ed.) ed. by Kevin Bradley.
 
-[Sound Directions: Best Practice for Audio Preservation](http://www.dlib.indiana.edu/projects/sounddirections/papersPresent/index.shtml), (2007) Mike Casey & Bruce Gordon
+[Sound Directions: Best Practice for Audio Preservation](http://www.dlib.indiana.edu/projects/sounddirections/papersPresent/index.shtml) (2007) Mike Casey & Bruce Gordon
 
