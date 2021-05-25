@@ -18,10 +18,13 @@ This page outlines the technical workflow for audio digitising for the PARADISEC
 Recources you should find on your desktop:
 Wavelab Pro 10.0 shortcut
 Wavelab Pro 10.0 operations manual
-2.	Turn on the RME ADI-2 PRO unit
+
+### 2.	Turn on the RME ADI-2 PRO unit
 <IMAGE: RME.JPG>
-3.	Turn on and load a tape into the Tascam 122 mk II
-4.	Click on the Wavelab shortcut.
+
+### 3.	Turn on and load a tape into the Tascam 122 mk II
+
+### 4.	Click on the Wavelab shortcut.
 <IMAGE: Wavelab-Icon.JPG>
 You may need to select New Project if presented with a start-up window. 
 <IMAGE: Wavelab-StartUpMenu.JPG
@@ -29,11 +32,14 @@ Otherwise, the main Wavelab window will open up
 <IMAGE: Wavelab-MainWindow.JPG>
 Make sure the Workspace layout is the PARADISEC layout. Go to the banner menu at the top and select Workspace > Layout > PARADISEC
 <IMAGE: Wavelab-WorkspaceLayout.JPG
-5.	Once main window opens, go up to the banner menu again and select File > New.
+
+### 5.	Once main window opens, go up to the banner menu again and select File > New.
 <IMAGE: WavelabMenuNewFile.jpg>
-6.	Another window pops up asking you to select the template. Select PARADISEC.
+
+### 6.	Another window pops up asking you to select the template. Select PARADISEC.
 <IMAGE: Wavelab-FileTemplate.JPG>
-7.	A new timeline will appear in the AUDIOEDITOR window located in the lower half of the main window. In this window, select the ANALYZE tab along the top. Make sure to tick the radio button next to Audio Input
+
+### 7.	A new timeline will appear in the AUDIOEDITOR window located in the lower half of the main window. In this window, select the ANALYZE tab along the top. Make sure to tick the radio button next to Audio Input
 <IMAGE: Wavelab-AudioInput.JPG>
 From the meter tabs in the upper right quadrant of the main window, grab the PHASESCOPE and drag it out to create a popped-out, larger window.
 8.	look to the buttons on the bottom of the window
