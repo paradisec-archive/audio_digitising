@@ -1,13 +1,13 @@
 # Audio Digitising Workflows for PARADISEC Archive
 <p align="center">
-🚧 This page is currently under construction, 2021-05-25 🚧
+🚧 This page is currently under construction, last edited on 2021-05-25 🚧
 </p>
 
 <p align="center">
   <img height="200" src="images/rev-rev-vox.gif">
 </p>
 
-This page offers advice for those who wish to prepare audio files for archiving with PARADISEC. The target format we accept is **.wav (96kHz/24-bit, stereo).** There is also helpful suggestions on other actions pertaining to audio manipulation and extracting audio from video.
+This page outlines the technical workflow for audio digitising for the PARADISEC unit based at the Australian National University. This worlflow can be modified to accommodate other organisations in their specific digitising goals.
 
 
 ## Digitising Cassette Tapes
