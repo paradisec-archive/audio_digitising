@@ -21,7 +21,7 @@ Wavelab Pro 10.0 operations manual
 
 #### 2.	Turn on the RME ADI-2 PRO unit
 <p align="center">
-  <img height="200" src="images/RME.JPG">
+  <img height="50" src="images/RME.jpg">
 </p>
 
 #### 3.	Turn on and load a tape into the Tascam 122 mk II
