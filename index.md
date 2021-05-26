@@ -20,53 +20,109 @@ Wavelab Pro 10.0 shortcut
 Wavelab Pro 10.0 operations manual
 
 #### 2.	Turn on the RME ADI-2 PRO unit
-<IMAGE: RME.JPG>
+<p align="center">
+  <img height="200" src="images/RME.JPG">
+</p>
 
 #### 3.	Turn on and load a tape into the Tascam 122 mk II
 
 #### 4.	Click on the Wavelab shortcut.
-<IMAGE: Wavelab-Icon.JPG>
+<p align="center">
+  <img height="200" src="images/Wavelab-Icon.JPG">
+</p>
+
 You may need to select New Project if presented with a start-up window. 
-<IMAGE: Wavelab-StartUpMenu.JPG
+
+<p align="center">
+  <img height="200" src="images/Wavelab-StartUpMenu.JPG">
+</p>
+
+
 Otherwise, the main Wavelab window will open up
+
+<p align="center">
+  <img height="200" src="images/RME.JPG">
+</p>
 <IMAGE: Wavelab-MainWindow.JPG>
 Make sure the Workspace layout is the PARADISEC layout. Go to the banner menu at the top and select Workspace > Layout > PARADISEC
+
+<p align="center">
+  <img height="200" src="images/RME.JPG">
+</p>
 <IMAGE: Wavelab-WorkspaceLayout.JPG
 
 #### 5.	Once main window opens, go up to the banner menu again and select File > New.
+
+<p align="center">
+  <img height="200" src="images/RME.JPG">
+</p>
 <IMAGE: WavelabMenuNewFile.jpg>
 
 #### 6.	Another window pops up asking you to select the template. Select PARADISEC.
+
+<p align="center">
+  <img height="200" src="images/RME.JPG">
+
+
 <IMAGE: Wavelab-FileTemplate.JPG>
 
 #### 7.	A new timeline will appear in the AUDIOEDITOR window located in the lower half of the main window. In this window, select the ANALYZE tab along the top. Make sure to tick the radio button next to Audio Input
+  
+  <p align="center">
+  <img height="200" src="images/RME.JPG">
 <IMAGE: Wavelab-AudioInput.JPG>
 From the meter tabs in the upper right quadrant of the main window, grab the PHASESCOPE and drag it out to create a popped-out, larger window.
 
 #### 8.	look to the buttons on the bottom of the window
+  
+  <p align="center">
+  <img height="200" src="images/RME.JPG">
 <IMAGE: Wavelab-buttons.JPG>
 Press the button with the dot on it, far right. This will open the following recording window and activate the PHASESCOPE:
+  
+  <p align="center">
+  <img height="200" src="images/RME.JPG">
 <IMAGE: Wavelab-Record-Phase.JPG>
 
 #### 9.	In Method tab under File to Create, select Named file from the drop down menu, then type in the file name you want to assign this file. Select the target location, E:\DigitisedFiles for the output files.
 
 #### 10.	Play the tape as a means to test the levels audio levels to recording. These can be seen in the Recording window. Play for a minute or so, making sure the signal stays below -12.00 dB. 
+  
+  <p align="center">
+  <img height="200" src="images/RME.JPG">
 <IMAGE: RecordingLevels.JPG>
 
 #### 11.	If the signal on the tape is too loud, you should adjust this on the TASCAM using the OUTPUT dial on the far right of the tape machine. The dial should be on 8 to begin with. Make adjustments from there.
+  
+  <p align="center">
+  <img height="200" src="images/RME.JPG">
 <IMAGE: TASCAM-Output.JPG>
 
 #### 12.	Once you adjust the volume, press the Reset button underneath the audio levels back in Wavelab so that you can confirm you have adjusted the audio adequately.
+  
+  <p align="center">
+  <img height="200" src="images/RME.JPG">
 <IMAGE: Wavelab-MonitorReset.JPG>
 
 #### 13.	As you are previewing the tape, you can see that the PHASESCOPE is also actively monitoring the audio. We will use this scope to help guide us in our Azimuth adjustment. 
 
 #### 14.	You can find the Azimuth screw on the TASCAM machine in the gap right above where the word STOP button. It is the screw to the left of the heads. Use the supplied tiny screwdriver.
+  
+  v
 <IMAGE: TASCAM-AzimuthAdjustment.jpg>
 
 #### 15.	Look at the PHASESCOPE as you turn the screw to the left and to the right. Because you will be mostly digitising one-sided tapes, you want the line to be straight and along the Y-axis (vertical). If you were to digitise a reel-to-reel tape that is recorded on both sides, both sides are digitised simultaneously. As a result, there will be more of an X -shape of lines, representing each output of the tape.
+  
+  <p align="center">
+  <img height="200" src="images/RME.JPG">
 <IMAGE: Wavelab-PHASESCOPE-AtRest.JPG>
+  
+  <p align="center">
+  <img height="200" src="images/RME.JPG">
 <IMAGE: Wavelab-PHASESCOPE-PreAdjustment.JPG >
+  
+  <p align="center">
+  <img height="200" src="images/RME.JPG">
 <IMAGE: Wavelab-PHASESCOPE-PostAdjustment.JPG >
 
 #### 16.	Once you get the cleanest, most vertical line you can, rewind the tape, press Record in Wavelab, then press play on the TASCAM. 
