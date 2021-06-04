@@ -19,7 +19,7 @@ Recources you should find on your desktop:
 Wavelab Pro 10.0 shortcut
 Wavelab Pro 10.0 operations manual
 
-#### 2.	Turn on the RME ADI-2 PRO unit
+#### 2.	Turn on the [RME ADI-2 PRO FS](https://www.rme-audio.de/adi-2-pro-fs.html) AD/DA Convertor
 <p align="center">
   <img height="50" src="images/RME.jpg">
 </p>
