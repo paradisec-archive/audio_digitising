@@ -21,12 +21,12 @@ Wavelab Pro 10.0 operations manual
 
 #### 2.	Turn on the [RME ADI-2 PRO FS](https://www.rme-audio.de/adi-2-pro-fs.html) AD/DA Convertor
 <p align="center">
-  <img width="300" src="images/RME.jpg">
+  <img width="500" src="images/RME.jpg">
 </p>
 
 #### 3.	Turn on and load a tape into the Tascam 122 mk II
 <p align="center">
-  <img width="300" src="images/tascam_112_MKII_1.jpg">
+  <img width="500" src="images/tascam_112_MKII_1.jpg">
 </p>
 
 #### 4.	Click on the Wavelab shortcut.
