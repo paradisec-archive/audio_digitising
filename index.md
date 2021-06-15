@@ -91,7 +91,7 @@ Press the button with the dot on it, far right. This will open the following rec
 #### 10.	Play the tape as a means to test the levels audio levels to recording. These can be seen in the Recording window. Play for a minute or so, making sure the signal stays below -12.00 dB. 
   
 <p align="center">
-  <img width="300" src="images/Wavelab-RecordingLevels.JPG">
+  <img width="500" src="images/Wavelab-RecordingLevels.JPG">
 </p>
 
 
@@ -105,7 +105,7 @@ Press the button with the dot on it, far right. This will open the following rec
 #### 12.	Once you adjust the volume, press the Reset button underneath the audio levels back in Wavelab so that you can confirm you have adjusted the audio adequately.
   
 <p align="center">
-  <img width="300" src="images/Wavelab-Monitor-Reset.JPG">
+  <img width="500" src="images/Wavelab-Monitor-Reset.JPG">
 </p>
 
 #### 13.	As you are previewing the tape, you can see that the PHASESCOPE is also actively monitoring the audio. We will use this scope to help guide us in our Azimuth adjustment. 
