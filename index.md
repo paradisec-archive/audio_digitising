@@ -43,7 +43,7 @@ Wavelab Pro 10.0 operations manual
 ##### Otherwise, the main Wavelab window will open up
 
 <p align="center">
-  <img width="300" src="images/Wavelab-MainWindow.JPG">
+  <img width="500" src="images/Wavelab-MainWindow.JPG">
 </p>
 
 ##### Make sure the Workspace layout is the PARADISEC layout. Go to the banner menu at the top and select Workspace > Layout > PARADISEC
