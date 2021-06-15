@@ -21,14 +21,14 @@ Wavelab Pro 10.0 operations manual
 
 #### 2.	Turn on the [RME ADI-2 PRO FS](https://www.rme-audio.de/adi-2-pro-fs.html) AD/DA Convertor
 <p align="center">
-  <img height="50" src="images/RME.jpg">
+  <img height="200" src="images/RME.jpg">
 </p>
 
 #### 3.	Turn on and load a tape into the Tascam 122 mk II
 
 #### 4.	Click on the Wavelab shortcut.
 <p align="center">
-  <img height="25" src="images/Wavelab-Icon.JPG">
+  <img height="75" src="images/Wavelab-Icon.JPG">
 </p>
 
 ##### You may need to select New Project if presented with a start-up window. 
@@ -52,7 +52,7 @@ Wavelab Pro 10.0 operations manual
 #### 5.	Once main window opens, go up to the banner menu again and select File > New.
 
 <p align="center">
-  <img height="200" src="images/WavelabMenuNewFile.jpg">
+  <img height="200" src="images/Wavelab-MenuNewFile.jpg">
 </p>
 
 #### 6.	Another window pops up asking you to select the template. Select PARADISEC.
@@ -84,7 +84,7 @@ Press the button with the dot on it, far right. This will open the following rec
 #### 10.	Play the tape as a means to test the levels audio levels to recording. These can be seen in the Recording window. Play for a minute or so, making sure the signal stays below -12.00 dB. 
   
   <p align="center">
-  <img height="200" src="images/RecordingLevels.JPG">
+  <img height="200" src="images/Wavelab-RecordingLevels.JPG">
 
 
 #### 11.	If the signal on the tape is too loud, you should adjust this on the TASCAM using the OUTPUT dial on the far right of the tape machine. The dial should be on 8 to begin with. Make adjustments from there.
