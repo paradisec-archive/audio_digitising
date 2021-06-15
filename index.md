@@ -104,7 +104,7 @@ Press the button with the dot on it, far right. This will open the following rec
 #### 14.	You can find the Azimuth screw on the TASCAM machine in the gap right above where the word STOP button. It is the screw to the left of the heads. Use the supplied tiny screwdriver.
   
   <p align="center">
-  <img height="200" src="images/ASCAM-AzimuthAdjustment.jpg"
+  <img height="200" src="images/TASCAM-AzimuthAdjustment.jpg"
 
 
 #### 15.	Look at the PHASESCOPE as you turn the screw to the left and to the right. Because you will be mostly digitising one-sided tapes, you want the line to be straight and along the Y-axis (vertical). If you were to digitise a reel-to-reel tape that is recorded on both sides, both sides are digitised simultaneously. As a result, there will be more of an X -shape of lines, representing each output of the tape.
