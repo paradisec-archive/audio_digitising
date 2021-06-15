@@ -117,6 +117,7 @@ Press the button with the dot on it, far right. This will open the following rec
   <img width="300" src="images/TASCAM-AzimuthAdjustment.jpg"
 </p>
 
+
 #### 15.	Look at the PHASESCOPE as you turn the screw to the left and to the right. Because you will be mostly digitising one-sided tapes, you want the line to be straight and along the Y-axis (vertical). If you were to digitise a reel-to-reel tape that is recorded on both sides, both sides are digitised simultaneously. As a result, there will be more of an X -shape of lines, representing each output of the tape.
   
 <p align="center">
@@ -131,7 +132,7 @@ Press the button with the dot on it, far right. This will open the following rec
   <img height="200" src="images/Wavelab-PHASESCOPE-PostAdjustment.JPG">
 </p>
 
-#### 16.	Once you get the cleanest, most vertical line you can, rewind the tape, press Record in Wavelab, then press play on the TASCAM. 
+#### 16.	Once you get the cleanest, most vertical line you can, rewind the tape, press ***Record*** in Wavelab, then press play on the TASCAM and begin digitising the tape. Remain nearby to monitor the progress of this task; keep in mind that something could go wrong as the tape is being played. If you remain nearby you can  
 
 
 ## Additional Resources
