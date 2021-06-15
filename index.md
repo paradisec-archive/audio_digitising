@@ -28,7 +28,7 @@ Wavelab Pro 10.0 operations manual
 
 #### 4.	Click on the Wavelab shortcut.
 <p align="center">
-  <img height="75" src="images/Wavelab-Icon.JPG">
+  <img height="80" src="images/Wavelab-Icon.JPG">
 </p>
 
 ##### You may need to select New Project if presented with a start-up window. 
@@ -96,11 +96,12 @@ Press the button with the dot on it, far right. This will open the following rec
 #### 12.	Once you adjust the volume, press the Reset button underneath the audio levels back in Wavelab so that you can confirm you have adjusted the audio adequately.
   
   <p align="center">
-  <img height="200" src="images/Wavelab-MonitorReset.JPG">
+  <img height="200" src="images/Wavelab-Monitor-Reset.JPG">
 
 
 #### 13.	As you are previewing the tape, you can see that the PHASESCOPE is also actively monitoring the audio. We will use this scope to help guide us in our Azimuth adjustment. 
 
+    
 #### 14.	You can find the Azimuth screw on the TASCAM machine in the gap right above where the word STOP button. It is the screw to the left of the heads. Use the supplied tiny screwdriver.
   
   <p align="center">
