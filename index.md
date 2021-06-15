@@ -68,7 +68,7 @@ Wavelab Pro 10.0 operations manual
   Make sure to tick the radio button next to Audio Input
   
 <p align="center">
-  <img width="300" src="images/Wavelab-AudioInput.JPG">
+  <img width="500" src="images/Wavelab-AudioInput.JPG">
 </p>
 
 From the meter tabs in the upper right quadrant of the main window, grab the PHASESCOPE and drag it out to create a popped-out, larger window.
@@ -82,7 +82,7 @@ From the meter tabs in the upper right quadrant of the main window, grab the PHA
 Press the button with the dot on it, far right. This will open the following recording window and activate the PHASESCOPE:
   
 <p align="center">
-  <img width="300" src="images/Wavelab-Record-Phase.JPG">
+  <img width="500" src="images/Wavelab-Record-Phase.JPG">
 </p>
 
 
