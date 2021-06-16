@@ -10,11 +10,11 @@
 This page outlines the technical workflow for audio digitising for the PARADISEC unit based at the Australian National University. This worlflow can be modified to accommodate other organisations in their specific digitising goals.
 
 ### Key topics in this workflow include the following
-[Equipment](#equipment)
-[Software](#software)
-[Digitising Audio Cassettes](#digitising-cassette-tapes)
-[Digitising  Reel-to-reel Tapes](#)
-[Additional Resources](#additional-resources)
+* [Equipment](#equipment)
+* [Software](#software)
+* [Digitising Audio Cassettes](#digitising-cassette-tapes)
+* [Digitising  Reel-to-reel Tapes](#digitising-reel-to-reel-tapes)
+* [Additional Resources](#additional-resources)
 
 ### Equipment
 
@@ -141,8 +141,9 @@ Press the button with the dot on it, far right. This will open the following rec
 
 16.	Once you get the cleanest, most vertical line you can, rewind the tape, press ***Record*** in Wavelab, then press play on the TASCAM and begin digitising the tape. Remain nearby to monitor the progress of this task; keep in mind that something could go wrong as the tape is being played. If you remain nearby you can  
 
+### Digitising Reel-to-reel Tapes
 
-## Additional Resources
+### Additional Resources
 [Pragmatic Audiovisual Preservation](http://doi.org/10.7207/twr20-10) (2021) Ashley Blewer
 
 [IASA Technical Committee, Guidelines on the Production and Preservation of Digital Audio Objects](https://www.iasa-web.org/tc04/audio-preservation) (2009, 2nd ed.) ed. by Kevin Bradley.
