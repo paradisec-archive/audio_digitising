@@ -10,13 +10,15 @@
 This page outlines the technical workflow for audio digitising for the PARADISEC unit based at the Australian National University. This worlflow can be modified to accommodate other organisations in their specific digitising goals.
 
 ### Key topics in this workflow include the following
-[](#)
-[](#)
-[](#)
-[](#)
-[](#)
+[Equipment](#equipment)
+[Software](#software)
+[Digitising Audio Cassettes](#digitising-cassette-tapes)
+[Digitising  Reel-to-reel Tapes](#)
+[Additional Resources](#additional-resources)
 
 ### Equipment
+
+### Software
 
 ### Digitising Cassette Tapes
 
@@ -37,10 +39,8 @@ Wavelab Pro 10.0 operations manual
   <img width="500" src="images/tascam_112_MKII_1.jpg">
 </p>
 
-4.	Click on the Wavelab shortcut.
-<p align="center">
-  <img height="80" src="images/Wavelab-Icon.JPG">
-</p>
+4.	Open the Wavelab program.
+
 
 You may need to select New Project if presented with a start-up window. 
 
