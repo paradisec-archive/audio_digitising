@@ -1,6 +1,6 @@
 # Audio Digitising Workflows for PARADISEC Archive
 <p align="center">
-🚧 This page is currently under construction, last edited on 2021-06-15 🚧
+🚧 This page is currently under construction, last edited on 2021-06-16 🚧
 </p>
 
 <p align="center">
@@ -9,8 +9,16 @@
 
 This page outlines the technical workflow for audio digitising for the PARADISEC unit based at the Australian National University. This worlflow can be modified to accommodate other organisations in their specific digitising goals.
 
+### Key topics in this workflow include the following
+[](#)
+[](#)
+[](#)
+[](#)
+[](#)
 
-## Digitising Cassette Tapes
+### Equipment
+
+### Digitising Cassette Tapes
 
 
 1.	Turn on computer and login with your ANU UDS credentials
