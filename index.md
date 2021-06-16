@@ -18,6 +18,9 @@ This page outlines the technical workflow for audio digitising for the PARADISEC
 * [Additional Resources](#additional-resources)
 
 ### Equipment
+
+#### Computer
+
 The ANU PARADISEC studio utilises a high-performance DELL OptiPlex 7080 Tower PC workstation with the following specifications:
 
 | SPECIFICATION | DETAILS     |
@@ -26,10 +29,16 @@ The ANU PARADISEC studio utilises a high-performance DELL OptiPlex 7080 Tower PC
 |***Processor*** | Intel Core i7-10700 (8-core, 16MB cache, 2.9GHz to 4.8GHz, 65W) |
 |***Drive*** | M.2 512GB Class 35 Solid State Drive |
 |***Drive*** | 2.5in 1TB 7200 Hard Disk Drive |
-|***Drive*** | 8xDVD =/-RW 9.5mm Optical Disk Drive |
+|***Drive*** | 8xDVD +/-RW 9.5mm Optical Disk Drive |
 |***Full-size Tower*** | SSF (Small Form Factor) will not accomodate necessary soundcard |
 
+#### Soundcard
 
+#### AD/DA Convertor
+
+#### Tascam 122 mk II audio cassette deck
+
+#### Revox C270 Reel to reel machine
 
 ### Software
 
