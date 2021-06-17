@@ -34,7 +34,12 @@ The ANU PARADISEC studio utilises a high-performance DELL OptiPlex 7080 Tower PC
 
 #### Soundcard
 
-#### AD/DA Convertor
+#### AD/DA Convertor: [RME ADI-2 PRO FS](https://www.rme-audio.de/adi-2-pro-fs.html) AD/DA Convertor
+
+<p align="center">
+  <img width="500" src="images/RME.jpg">
+</p>
+
 
 #### Tascam 122 mk II audio cassette deck
 
@@ -51,11 +56,7 @@ Recources you should find on your desktop:
 Wavelab Pro 10.0 shortcut
 Wavelab Pro 10.0 operations manual
 
-2.	Turn on the [RME ADI-2 PRO FS](https://www.rme-audio.de/adi-2-pro-fs.html) AD/DA Convertor
-<p align="center">
-  <img width="500" src="images/RME.jpg">
-</p>
-
+2.	Turn on the RME ADI-2 PRO FS 
 3.	Turn on and load a tape into the Tascam 122 mk II
 <p align="center">
   <img width="500" src="images/tascam_112_MKII_1.jpg">
