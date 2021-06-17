@@ -32,10 +32,12 @@ The ANU PARADISEC studio utilises a high-performance DELL OptiPlex 7080 Tower PC
 |***Drive*** | 8xDVD +/-RW 9.5mm Optical Disk Drive |
 |***Full-size Tower*** | SSF (Small Form Factor) will not accomodate necessary soundcard |
 
-#### Soundcard
+#### Soundcard [RME HDSPe AIO Pro](https://www.rme-audio.de/hdspe-aio-pro.html)
+<p align="center">
+  <img width="500" src="images/xxx.jpg">
+</p>
 
-#### AD/DA Convertor: [RME ADI-2 PRO FS](https://www.rme-audio.de/adi-2-pro-fs.html) AD/DA Convertor
-
+#### AD/DA Convertor: [RME ADI-2 PRO FS](https://www.rme-audio.de/adi-2-pro-fs.html)
 <p align="center">
   <img width="500" src="images/RME.jpg">
 </p>
