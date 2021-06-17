@@ -34,7 +34,7 @@ The ANU PARADISEC studio utilises a high-performance DELL OptiPlex 7080 Tower PC
 
 #### Soundcard [RME HDSPe AIO Pro](https://www.rme-audio.de/hdspe-aio-pro.html)
 <p align="center">
-  <img width="500" src="images/xxx.jpg">
+  <img width="500" src="images/RME-Soundcard.jpg">
 </p>
 
 #### AD/DA Convertor: [RME ADI-2 PRO FS](https://www.rme-audio.de/adi-2-pro-fs.html)
