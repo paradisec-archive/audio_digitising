@@ -19,7 +19,7 @@ This page outlines the technical workflow for audio digitising for the PARADISEC
 
 ### Equipment
 
-#### Computer
+#### Computer workstation
 
 The ANU PARADISEC studio utilises a high-performance DELL OptiPlex 7080 Tower PC workstation with the following specifications:
 
@@ -32,7 +32,7 @@ The ANU PARADISEC studio utilises a high-performance DELL OptiPlex 7080 Tower PC
 |***Drive*** | 8xDVD +/-RW 9.5mm Optical Disk Drive |
 |***Full-size Tower*** | SSF (Small Form Factor) will not accomodate necessary soundcard |
 
-#### Soundcard [RME HDSPe AIO Pro](https://www.rme-audio.de/hdspe-aio-pro.html)
+#### Soundcard: [RME HDSPe AIO Pro](https://www.rme-audio.de/hdspe-aio-pro.html)
 <p align="center">
   <img width="500" src="images/RME-Soundcard.jpg">
 </p>
@@ -42,10 +42,14 @@ The ANU PARADISEC studio utilises a high-performance DELL OptiPlex 7080 Tower PC
   <img width="500" src="images/RME.jpg">
 </p>
 
+#### Audio cassette player: [Tascam 122 mk II](https://tascam.com/downloads/tascam/324/122mkIII_TECHDOC.pdf)
+<p align="center">
+  <img width="500" src="images/tascam_112_MKII_1.jpg">
+</p>
 
-#### Tascam 122 mk II audio cassette deck
-
-#### Revox C270 Reel to reel machine
+#### Reel-to-reel tape player: [Revox C270](https://www.reeltoreel.nl/studer/Public/Products/Revox/Revox_C270/Revox_C270_Op_E.pdf)
+  <img width="500" src="images/xx.jpg">
+</p>
 
 ### Software
 
@@ -60,10 +64,6 @@ Wavelab Pro 10.0 operations manual
 
 2.	Turn on the RME ADI-2 PRO FS 
 3.	Turn on and load a tape into the Tascam 122 mk II
-<p align="center">
-  <img width="500" src="images/tascam_112_MKII_1.jpg">
-</p>
-
 4.	Open the Wavelab program.
 
 
