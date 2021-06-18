@@ -1,3 +1,8 @@
+---
+title: Audio Digitising
+layout: default
+nav_order: 2
+--- 
 # Audio Digitising Workflows for PARADISEC Archive
 <p align="center">
            🚧 This page is currently under construction 🚧 <br>
