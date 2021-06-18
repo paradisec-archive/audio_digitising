@@ -1,5 +1,8 @@
 ---
-title: Audio Digitising
+<p align="center">
+  <img height="50" src="images/images/paradisec_logo_vector.jpg">
+</p>
+title: PARADISEC Workflows & Help Guides
 layout: default
 nav_order: 2
 --- 
