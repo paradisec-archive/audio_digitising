@@ -1,5 +1,5 @@
 ---
-<p align="center">
+<p align="left">
   <img height="50" src="images/images/paradisec_logo_vector.jpg">
 </p>
 title: PARADISEC Workflows & Help Guides
