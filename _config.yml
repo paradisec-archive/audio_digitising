@@ -1,5 +1,8 @@
 
 title: PARADISEC Technical Workflows
+<p align="center">
+  <img height="50" src="images/images/paradisec_logo_vector.jpg">
+</p>
 description: PARADISEC technical workflows & archiving guides 
 search_enabled: true
 remote_theme: pmarsceill/just-the-docs
