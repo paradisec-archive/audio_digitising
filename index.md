@@ -13,7 +13,7 @@ nav_order: 2
 </p>
 
 <p align="center">
-  <img height="200" src="images/rev-rev-vox.gif">
+  <img width="200" src="images/rev-rev-vox.gif">
 </p>
 
 This page outlines the technical workflow for audio digitising for the PARADISEC unit based at the Australian National University. This worlflow can be modified to accommodate other organisations in their specific digitising goals.
