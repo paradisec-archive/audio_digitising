@@ -6,7 +6,7 @@ title: PARADISEC Workflows & Help Guides
 layout: default
 nav_order: 2
 --- 
-# Audio Digitising Workflows for PARADISEC Archive
+# Audio Digitising Workflows for PARADISEC
 <p align="center">
            🚧 This page is currently under construction 🚧 <br>
            Last edited on 2021-06-16
