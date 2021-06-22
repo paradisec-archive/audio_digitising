@@ -2,14 +2,14 @@
 <p align="left">
   <img height="50" src="images/images/paradisec_logo_vector.jpg">
 </p>
-title: PARADISEC Workflows & Help Guides
+title: Audio digitising workflows
 layout: default
-nav_order: 2
+nav_order: 1
 --- 
 # Audio Digitising Workflows for PARADISEC
 <p align="center">
            🚧 This page is currently under construction 🚧 <br>
-           Last edited on 2021-06-16
+           Last edited on 2021-06-23
 </p>
 
 <p align="center">
