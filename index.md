@@ -6,7 +6,7 @@ title: Audio digitising workflows
 layout: default
 nav_order: 1
 --- 
-# Audio Digitising Workflows for PARADISEC
+# Audio Digitising Workflows
 <p align="center">
            🚧 This page is currently under construction 🚧 <br>
            Last edited on 2021-06-23
